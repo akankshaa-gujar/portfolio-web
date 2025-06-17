@@ -160,5 +160,24 @@
   }
   .text-container {
     text-align: justify;
+
   }
+
+  @media (max-width: 768px) {
+    .experience-details, .experience-image-container {
+        width: 114%;
+        min-width: unset;
+    }
+
+        .about-details-container{
+        margin-top: 64px;
+        }
+
+        #experience {
+    padding: 0rem;
+    background-color: #f9f9f9;
+    margin-right: 49px;
+   }
 }
+}
+

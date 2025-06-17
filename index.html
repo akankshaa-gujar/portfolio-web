@@ -107,23 +107,23 @@
           Download CV
         </button>
 
-        <script>
-          function downloadFile() {
-            const link = document.createElement('a');
-            link.href = '/assets/Akanksha Gujar -A resume.pdf';  // Use forward slashes
-            link.download = 'Akanksha Gujar -A resume.pdf';
-            document.body.appendChild(link);
-            link.click();
-            document.body.removeChild(link);
-          }
-        </script>
-
-
-
         <button class="btn btn-color-1" onclick="location.href='#contact'">
           Contact Info
         </button>
       </div>
+
+      <script>
+        function downloadFile() {
+          const link = document.createElement('a');
+          link.href = 'assets/Akanksha-Gujar-resume (1).pdf'; // Encoded filename
+          link.download = 'Akanksha-Gujar-resume (1).pdf';
+          link.target = '_blank'; // Optional: opens in new tab
+          document.body.appendChild(link);
+          link.click();
+          document.body.removeChild(link);
+        }
+      </script>
+
       <div id="socials-container">
         <img src="assets/linkedin.png" alt="My LinkedIn profile" class="icon"
           onclick="location.href='https://linkedin.com/in/akanksha-gujar'" />

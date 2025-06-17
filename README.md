@@ -2,13 +2,13 @@
 
 This is my professional personal portfolio website, designed and developed to showcase my projects, skills, and resume. The site is built using modern frontend technologies including **HTML5**, **CSS3**, **Bootstrap 5**, and **JavaScript**.
 
-![Portfolio Preview](assets/preview.png) <!-- Replace with actual path if image exists -->
+![Portfolio Preview](assets/My-Portfolio-full%20preview.png) <!-- Replace with actual path if image exists -->
 
----
+----
 
 ## 🚀 Live Website
 
-🔗 [Visit My Portfolio](https://akankshaa-gujar.github.io/portfolio-web/)
+🔗 **View Portfolio**: [https://akankshaa-gujar.github.io/portfolio-web](https://akankshaa-gujar.github.io/portfolio-web)
 
 ---
 
@@ -31,13 +31,6 @@ This is my professional personal portfolio website, designed and developed to sh
 - ✅ Contact form (frontend)
 - ✅ Clean, modern UI with Bootstrap
 
----
-
-## 📷 Screenshots
-
-> Add screenshots of the main sections: Home, About, Projects, Contact, etc.
-
----
 
 ## 📂 Folder Structure
 
